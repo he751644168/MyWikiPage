@@ -1,4 +1,8 @@
 ﻿你是一个仙人吧！
 1
 2
+<<<<<<< HEAD
 3
+=======
+3
+>>>>>>> parent of 3c04c4f... Revert "Revert "Revert "12"""
