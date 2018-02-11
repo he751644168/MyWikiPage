@@ -1,0 +1,2 @@
+# MyWikiPage
+page
